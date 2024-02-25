@@ -1,0 +1,43 @@
+body{
+    font-size: 1em;
+    font-family: Copperplate, Papyrus, fantasy, serif;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 4em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.3rem;
+    margin-top: 1.5em;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50vw;
+    height: auto;
+}
+
+p , li {
+    font-size: 1.5em;
+}
+
+#main-desc {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.desc {
+    text-align: center;
+}
+
+.ingred-list {
+    margin-bottom: 1em;
+}
+
+.step-list {
+    margin-bottom: 2em;
+}
